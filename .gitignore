@@ -1,0 +1,8 @@
+# Dependências
+/node_modules
+
+# Variáveis de ambiente
+.env.local
+
+# Saída de compilação
+/dist
